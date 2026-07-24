@@ -1,0 +1,6 @@
+{
+  "name": "Air One Travels",
+  "description": "A premium, modern, fully responsive travel agency website for Air One Travels featuring flight booking, visa assistance, holiday packages, and Umrah packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
